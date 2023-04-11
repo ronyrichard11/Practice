@@ -11,5 +11,3 @@ def get_count(sentence):
     print(vowel_count)
     return vowel_count
 
-#Testing 
-
