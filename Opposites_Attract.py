@@ -10,4 +10,3 @@ def lovefunc(flower1, flower2):
         print("Compatible")
         return True
 
-#Testing
