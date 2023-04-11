@@ -1,3 +1,7 @@
+# April 11th, 2023
+# codewars.com/kata/5601409514fc93442500010b
+# Python
+
 def better_than_average(class_points, your_points):
     dividend = 0
     divisor = 0
@@ -19,6 +23,3 @@ def better_than_average(class_points, your_points):
         print("You are above the Class Average!")
         return True
         
-
-
-better_than_average([100, 40, 34, 57, 29, 72, 57, 88], 75)
